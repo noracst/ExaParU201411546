@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  <html>
  <head>
-  <title>EXAMEN PARCIAL </title>
+  <title>EXAMEN PARCIAL UPC </title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="stylesheet" href="style.css" />
  </head>
